@@ -22,15 +22,16 @@ Date  Who       Start   Stop  Interruptions Question	 TimeOnTask   	 	Comments
 10/1     Dv	       15:17  17:49             1                  1,2                 100		Did little more modifications
 ============committing to git: 10/1 : 17:51 ===================
 10/2     Dv          10:00  12:49            1                  2                    100		checked boundary conditions
+============committing to git: 10/2 : 12:54 ===================
 10/2     Dv          16:30  17:00            0                  1,2                  30		checked again for strategy of individual
 							functions
-============committing to git: 10/2 : 17:15===================
-============committing to git: 10/2 : 12:54 ===================
+============committing to git: 10/2 : 17:40===================
 
-Total Time On Task Q1 (minutes)    
-Total Time On Task Q2 (minutes)    
+
+Total Time On Task Q1 (minutes)   450 
+Total Time On Task Q2 (minutes)   770 
 
  
-Total Time On Task Q1  (hours and tenths)                         
-Total Time On Task Q2  (hours and tenths)    
+Total Time On Task Q1  (hours and tenths)  7.5                        
+Total Time On Task Q2  (hours and tenths)  12.8 
              
