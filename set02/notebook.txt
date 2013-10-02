@@ -1,0 +1,36 @@
+Date  Who       Start   Stop  Interruptions Question	 TimeOnTask   	 	Comments
+
+9/27    Dv          18:30  22:45  	1  	  1	      120      		Read slides and started with question1
+									
+9/28    Dv  	      10:30  13:10 	0      	  1	      120                         could do a few parts but could not figure out how to 
+							position the mouse.
+9/29    Dv         14:35  18:20           1                   2                     240                        tried doing the second question but not working.
+							also did the practise test on blackboard.
+============committing to git: 9/29 : 18:31 ===================
+9/30    Dv	       00:25  03:40	 1	    2	       160		Could do bouncing of cat in north-south 
+							direction but not able to do it for east and west.
+============committing to git: 9/30 : 03:42 ===================
+30/9    Dv          01:00  04:07	 1	    2	       170		got the boundary conditions working but 
+							north movement of cat has to be fixed
+							as well as selection criteria to be modified
+============committing to git: 9/30 : 04:10 ===================
+30/9     Dv	       04:30  05:15            0                   1	        30		 checked the in-rectangle condition 
+============committing to git: 9/30 : 05:20 ===================
+30/9     Dv         20:30  22:39            2                   1                     80		checked test cases and design recipe again
+10/1     Dv         00:12  01:43            0                   1,2                  70		tried modifying test cases for 100% coverage
+============committing to git: 10/1 : 01:50 ===================
+10/1     Dv	       15:17  17:49             1                  1,2                 100		Did little more modifications
+============committing to git: 10/1 : 17:51 ===================
+10/2     Dv          10:00  12:49            1                  2                    100		checked boundary conditions
+10/2     Dv          16:30  17:00            0                  1,2                  30		checked again for strategy of individual
+							functions
+============committing to git: 10/2 : 17:15===================
+============committing to git: 10/2 : 12:54 ===================
+
+Total Time On Task Q1 (minutes)    
+Total Time On Task Q2 (minutes)    
+
+ 
+Total Time On Task Q1  (hours and tenths)                         
+Total Time On Task Q2  (hours and tenths)    
+             
